@@ -17,12 +17,12 @@ Tenho experiência com desenvolvimento backend, APIs REST e análise de desempen
 ## 🌎 Vamos nos conectar!
 
 <p align="center">
-<a href="SEU_LINK_LINKEDIN">
-  <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/em%C3%ADlia-ferlin-b254111b1/)"/>
+<a href="[SEU_LINK_LINKEDIN](https://www.linkedin.com/in/em%C3%ADlia-ferlin-b254111b1/)">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=emiliaferlin18@gmail.com&logoColor=white"/>
+<a href="mailto:emiliaferlin18@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
@@ -34,6 +34,7 @@ Tenho experiência com desenvolvimento backend, APIs REST e análise de desempen
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliaferlin&layout=compact&theme=default"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=flutter,dart,java,python" /><br>
+&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=git,github,postgresql,nodejs" />
 </p>
 
