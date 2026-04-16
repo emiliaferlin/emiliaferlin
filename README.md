@@ -12,30 +12,34 @@ Sou estudante de Ciência da Computação e desenvolvedora com foco em aplicaç�
 
 Tenho experiência com desenvolvimento backend, APIs REST e análise de desempenho de algoritmos, sempre buscando escrever código limpo, organizado e escalável.
 
----
-
-## 🌎 Vamos nos conectar!
-
 <p align="center">
-<a href="[SEU_LINK_LINKEDIN](https://www.linkedin.com/in/em%C3%ADlia-ferlin-b254111b1/)">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/em%C3%ADlia-ferlin-b254111b1/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:emiliaferlin18@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://github.com/emiliaferlin" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## 🚀 Linguagens mais utilizadas e Tecnologias 
+## 🚀 Linguagens mais utilizadas e Tecnologias
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliaferlin&layout=compact&theme=default"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,python" /><br>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git,github,postgresql,nodejs" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliaferlin&layout=compact&theme=default"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,python" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postgresql,nodejs" />
 </p>
 
 ---
