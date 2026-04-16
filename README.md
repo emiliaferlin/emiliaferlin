@@ -28,19 +28,13 @@ Tenho experiência com desenvolvimento backend, APIs REST e análise de desempen
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,python" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,postgresql,nodejs" />
-</p>
-
----
-
-## 📊 Linguagens mais utilizadas
+## 🚀 Linguagens mais utilizadas e Tecnologias 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliaferlin&layout=compact&theme=default"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,python" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,postgresql,nodejs" />
 </p>
 
 ---
