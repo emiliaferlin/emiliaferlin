@@ -1,7 +1,7 @@
 <h1 align="center">&lt;EmíliaFerlin/&gt; 👩‍💻</h1>
 
 <p align="center">
-Desenvolvedora Mobile • Flutter • Backend • APIs REST
+  Desenvolvedora Mobile • Flutter • Backend • APIs REST
 </p>
 
 ---
@@ -14,53 +14,16 @@ Tenho experiência com desenvolvimento backend, APIs REST e análise de desempen
 
 ---
 
-## 💼 Experiência e Projetos
-
-💻 **Match dos Estudos — API REST**
-
-* Sistema para conectar estudantes com base em compatibilidade
-* Backend em Java
-* Arquitetura REST
-* Estrutura escalável
-
-📊 **Ordenação de Músicas (Python)**
-
-* Implementação de algoritmo próprio
-* Comparação com HeapSort, QuickSort, Radix Sort e Timsort
-* Análise de desempenho
-
-🌐 **Servidor HTTP em Java**
-
-* Suporte a GET e POST
-* Comunicação via sockets TCP
-* Multithreading
-* Autenticação básica
-
-🤖 **Classificação de Imagens**
-
-* Redes neurais para identificar tipos de veículos
-* Processamento de imagens
-
----
-
 ## 🌎 Vamos nos conectar!
 
-<p>
+<p align="center">
 <a href="SEU_LINK_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/em%C3%ADlia-ferlin-b254111b1/)"/>
 </a>
 
 <a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=emiliaferlin18@gmail.com&logoColor=white"/>
 </a>
-</p>
-
----
-
-## 📊 Linguagens mais utilizadas
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliaferlin&layout=compact"/>
 </p>
 
 ---
@@ -68,7 +31,16 @@ Tenho experiência com desenvolvimento backend, APIs REST e análise de desempen
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,python,git,github,postgresql,nodejs"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,python" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,postgresql,nodejs" />
+</p>
+
+---
+
+## 📊 Linguagens mais utilizadas
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliaferlin&layout=compact&theme=default"/>
 </p>
 
 ---
@@ -76,19 +48,21 @@ Tenho experiência com desenvolvimento backend, APIs REST e análise de desempen
 ## 📈 Estatísticas
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=emiliaferlin&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=emiliaferlin&show_icons=true&theme=default"/>
 </p>
 
 ---
 
 ## ✨ Diferenciais
 
-* Clean Architecture
-* Design Patterns
-* Code Review
-* Testes automatizados
-* Análise e prevenção de bugs
-* Organização de código escalável
+<p align="center">
+✔ Clean Architecture &nbsp;&nbsp;•&nbsp;&nbsp;
+✔ Design Patterns &nbsp;&nbsp;•&nbsp;&nbsp;
+✔ Code Review &nbsp;&nbsp;•&nbsp;&nbsp;
+✔ Testes automatizados &nbsp;&nbsp;•&nbsp;&nbsp;
+✔ Prevenção de bugs &nbsp;&nbsp;•&nbsp;&nbsp;
+✔ Código escalável
+</p>
 
 ---
 
