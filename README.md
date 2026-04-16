@@ -48,7 +48,6 @@ Tenho experiência com desenvolvimento backend, APIs REST e análise de desempen
 <p align="center">
 ✔ Clean Architecture &nbsp;&nbsp;•&nbsp;&nbsp;
 ✔ Design Patterns &nbsp;&nbsp;•&nbsp;&nbsp;
-✔ Code Review &nbsp;&nbsp;•&nbsp;&nbsp;
 ✔ Testes automatizados &nbsp;&nbsp;•&nbsp;&nbsp;
 ✔ Prevenção de bugs &nbsp;&nbsp;•&nbsp;&nbsp;
 ✔ Código escalável
