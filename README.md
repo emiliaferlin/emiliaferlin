@@ -21,9 +21,6 @@ Tenho experiência com desenvolvimento backend, APIs REST e análise de desempen
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/emiliaferlin" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 </p>
 
 ---
@@ -31,15 +28,9 @@ Tenho experiência com desenvolvimento backend, APIs REST e análise de desempen
 ## 🚀 Linguagens mais utilizadas e Tecnologias
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliaferlin&layout=compact&theme=default"/>
-</p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliaferlin&layout=compact&theme=default"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,python" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postgresql,nodejs" />
+  <img height="160em" src="https://skillicons.dev/icons?i=flutter,dart,java,python,git,github,postgresql,nodejs"/>
 </p>
 
 ---
